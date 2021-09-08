@@ -10,5 +10,5 @@
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dec1mo&show_icons=true&count_private=true&theme=solarized-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dec1mo&hide=html,css&layout=compact&theme=solarized-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dec1mo&hide=javascript,css,scss,html&layout=compact&theme=solarized-dark" />
 </p>
