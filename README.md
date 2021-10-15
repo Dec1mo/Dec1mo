@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-- 🔭 I’m currently working as a Data Analysis, Data Engineer and AI Engineer.
+- 🔭 I’m currently working as a Data Analyst, Data Engineer, and AI Engineer.
 - 🌱 As a data-driven guy, I enjoy getting my hands dirty to process, explore and analyze data and turn it into beautiful insights.
 - Tech Stack:
   - Programming Language: Python (_proficient_), Java (_familiar_), C/C++ (_familiar_)
