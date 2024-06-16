@@ -1,12 +1,11 @@
-### Hello, world! 👋
+### Hello, world! 
 
-- 🔭 I’m currently working as a Data Analyst, Data Engineer, and AI Engineer.
-- 🌱 As a data-driven guy, I enjoy getting my hands dirty to process, explore and analyze data and turn it into beautiful insights.
+- I’m currently working as a Data Engineer, enjoy getting my hands dirty to process, explore and analyze data and turn it into insights.
 - Tech Stack:
-  - Programming Language: Python (_proficient_), Java (_familiar_), C/C++ (_familiar_)
-  - Database: NoSQL (MongoDB), SQL (Microsoft SQL Server)
+  - Programming Language: Python (_proficient_), Scala (_familiar_)
+  - Database: SQL (Microsoft SQL Server), NoSQL (MongoDB)
   - Big data technology: Apache Spark
-  - DevOps Tool: Docker
+  - DevOps Tool: Docker, Terraform
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dec1mo&show_icons=true&count_private=true&theme=solarized-dark" />
